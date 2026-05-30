@@ -334,12 +334,13 @@ A curated list of awesome healthcare datasets for machine learning, research, an
 ## Miscellaneous
 
 1.  [Human Mortality Database](https://www.mortality.org/)
-2.  [OpenNeuro](https://openneuro.org/) - Neuroimaging data.
-3. IBL Neuropixels Reproducible Ephys Data on AWS](https://registry.opendata.aws/ibl-reproducible-ephys/).
-4.  [Human Cell Atlas](https://www.humancellatlas.org/)
-5. [Refgenie reference genome assets](https://registry.opendata.aws/refgenie/).
-6. [Open Bioinformatics Reference Data for Galaxy](https://registry.opendata.aws/open-bio-ref-data/).
-7. [OpenCell on AWS](https://registry.opendata.aws/czb-opencell/).
+2.  [Longevity World Cup](https://longevityworldcup.com/api/data/athletes) - Public biological-age leaderboard and athlete profile data with JSON endpoints.
+3.  [OpenNeuro](https://openneuro.org/) - Neuroimaging data.
+4. IBL Neuropixels Reproducible Ephys Data on AWS](https://registry.opendata.aws/ibl-reproducible-ephys/).
+5.  [Human Cell Atlas](https://www.humancellatlas.org/)
+6. [Refgenie reference genome assets](https://registry.opendata.aws/refgenie/).
+7. [Open Bioinformatics Reference Data for Galaxy](https://registry.opendata.aws/open-bio-ref-data/).
+8. [OpenCell on AWS](https://registry.opendata.aws/czb-opencell/).
 
 ## License
 
