@@ -290,6 +290,7 @@ A curated list of awesome healthcare datasets for machine learning, research, an
 7.  [Optum Clinformatics Data Mart](https://www.optum.com/business/life-sciences/real-world-data.html) - Commercial claims and EMR data. (Requires purchase, academic subscriptions available).
 8. [National Inpatient Sample (NIS)](https://www.hcup-us.ahrq.gov/nisoverview.jsp) - Largest all-payer inpatient care database in the US. (Available for purchase.)
 9. [National Ambulatory Medical Care Survey (NAMCS) and National Hospital Ambulatory Medical Care Survey (NHAMCS)](https://www.cdc.gov/nchs/ahcd/index.htm)- Provides data on ambulatory care visits.
+10. [California IHSS Individual Provider County Wage Rates 2026](https://github.com/asafichaki/california-senior-care-rates-open-data) - Hourly IHSS in-home caregiver wage set by each of California's 58 counties under the Medi-Cal In-Home Supportive Services program, from CDSS. Government program wages, not private-pay prices. CSV and JSON, CC BY 4.0, reproducible fetch script.
 
 ## Biomedical Literature
 
