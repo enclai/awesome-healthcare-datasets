@@ -291,6 +291,8 @@ A curated list of awesome healthcare datasets for machine learning, research, an
 8. [National Inpatient Sample (NIS)](https://www.hcup-us.ahrq.gov/nisoverview.jsp) - Largest all-payer inpatient care database in the US. (Available for purchase.)
 9. [National Ambulatory Medical Care Survey (NAMCS) and National Hospital Ambulatory Medical Care Survey (NHAMCS)](https://www.cdc.gov/nchs/ahcd/index.htm)- Provides data on ambulatory care visits.
 10. [California Assisted Living Waiver County Availability Tracker](https://github.com/asafichaki/california-alw-open-data) - County-level participating-facility and licensed-capacity data for California's Medi-Cal Assisted Living Waiver, with DHCS statewide enrollment and waitlist totals. CSV and JSON, CC BY 4.0.
+11. [California IHSS Individual Provider County Wage Rates 2026](https://github.com/asafichaki/california-senior-care-rates-open-data) - Hourly IHSS in-home caregiver wage set by each of California's 58 counties under the Medi-Cal In-Home Supportive Services program, from CDSS. Government program wages, not private-pay prices. CSV and JSON, CC BY 4.0, reproducible fetch script.
+12. [Loa U.S. Healthcare Price Transparency Dataset](https://www.loacare.com/methodology) - Searchable, source-labeled U.S. hospital prices and CMS provider records covering 207,453 provider profiles, 4,702 hospital profiles, and 116,655 current hospital price rows. Includes a downloadable [964-row aggregate procedure-city benchmark CSV](https://www.loacare.com/datasets/loa-us-healthcare-price-benchmarks.csv) and public no-auth [JSON API](https://www.loacare.com/api/v1/openapi.json); use is governed by Loa's terms and no open-data redistribution license is advertised.
 
 ## Biomedical Literature
 
@@ -335,12 +337,13 @@ A curated list of awesome healthcare datasets for machine learning, research, an
 ## Miscellaneous
 
 1.  [Human Mortality Database](https://www.mortality.org/)
-2.  [OpenNeuro](https://openneuro.org/) - Neuroimaging data.
-3. IBL Neuropixels Reproducible Ephys Data on AWS](https://registry.opendata.aws/ibl-reproducible-ephys/).
-4.  [Human Cell Atlas](https://www.humancellatlas.org/)
-5. [Refgenie reference genome assets](https://registry.opendata.aws/refgenie/).
-6. [Open Bioinformatics Reference Data for Galaxy](https://registry.opendata.aws/open-bio-ref-data/).
-7. [OpenCell on AWS](https://registry.opendata.aws/czb-opencell/).
+2.  [Longevity World Cup](https://longevityworldcup.com/api/data/athletes) - Public biological-age leaderboard and athlete profile data with JSON endpoints.
+3.  [OpenNeuro](https://openneuro.org/) - Neuroimaging data.
+4. IBL Neuropixels Reproducible Ephys Data on AWS](https://registry.opendata.aws/ibl-reproducible-ephys/).
+5.  [Human Cell Atlas](https://www.humancellatlas.org/)
+6. [Refgenie reference genome assets](https://registry.opendata.aws/refgenie/).
+7. [Open Bioinformatics Reference Data for Galaxy](https://registry.opendata.aws/open-bio-ref-data/).
+8. [OpenCell on AWS](https://registry.opendata.aws/czb-opencell/).
 
 ## License
 
