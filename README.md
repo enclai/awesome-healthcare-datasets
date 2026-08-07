@@ -279,6 +279,7 @@ A curated list of awesome healthcare datasets for machine learning, research, an
 6. [SEER (Surveillance, Epidemiology, and End Results Program)](https://seer.cancer.gov/) - Cancer statistics. *Requires data use agreement.*
 7. [Behavioral Risk Factor Surveillance System (BRFSS)](https://www.cdc.gov/brfss/index.html) - Health-related telephone surveys.
 8. [Youth Risk Behavior Surveillance System (YRBSS)](https://www.cdc.gov/healthyyouth/data/yrbs/index.htm) - Monitors health-risk behaviors among youth.
+9. [Verified Supplement Evidence Dataset](https://github.com/erinheit451/verified-supplement-evidence) - Evidence-graded dietary-supplement data: dosing, bioavailability by form, drug-nutrient interactions, NHANES deficiency prevalence, FDA FAERS adverse-event signals, and cost-per-effective-dose. Every clinical claim carries a PubMed PMID. CC BY 4.0 (DOI 10.57967/hf/9356).
 
 ### Health Systems and Policy
 1.  [All of Us Research Program](https://www.researchallofus.org/)
