@@ -235,6 +235,7 @@ A curated list of awesome healthcare datasets for machine learning, research, an
 8.  [SIDER](http://sideeffects.embl.de/) - Drug side effects.
 9.  [STITCH](http://stitch.embl.de/) - Chemical-protein interactions.
 10. [ZINC](https://zinc.docking.org/) - Compounds for virtual screening.
+11. [State of Peptides 2026](https://peptahub.com/state-of-peptides-2026) - Reference dataset of 156 peptide and peptide-adjacent compounds with regulatory status, category, route, half-life, molecular weight, CAS number, and PubChem/DrugBank/Wikidata cross-references (CSV/JSON, CC BY 4.0).
 
 ### Disease and Gene Information
 
