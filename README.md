@@ -142,7 +142,9 @@ A curated list of awesome healthcare datasets for machine learning, research, an
 2.  [PatchCamelyon (PCam)](https://github.com/basveeling/pcam) - A benchmark dataset for machine learning, derived from Camelyon16.
 3.   [Computational Precision Medicine](https://github.com/labsyspharm/cpm-pathology) - Giga-pixel pathology images from the University of Pittsburg.
 4.  [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/tcga) - Includes histopathology images alongside genomic data. *Requires data use agreement and, for some data, IRB approval.*
-5. [PANDA challenge](https://www.kaggle.com/c/prostate-cancer-grade-assessment/data) - Prostate cancer grade assessment.
+5.  [TCGA virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas) - DeepSpot-M predicted transcriptome-wide ST for 28,664 TCGA H&E slides across 32 cancers (295.3M spots; gated). Manuscript: [DeepSpot-M](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1).
+6.  [HEST Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics) - DeepSpot-M predicted single-cell transcriptome-wide ST for 59 HEST-1k Xenium samples (~13.3M cells; gated). Manuscript: [DeepSpot-M](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1).
+7. [PANDA challenge](https://www.kaggle.com/c/prostate-cancer-grade-assessment/data) - Prostate cancer grade assessment.
 
 ### Microscopy
 
